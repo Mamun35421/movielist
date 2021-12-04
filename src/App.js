@@ -7,6 +7,7 @@ function App() {
     
     <main className="container">
      <Movies />
+     <h1>hfhfhfhfhfhfh</h1>
     </main>
   );
 }
